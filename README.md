@@ -1,7 +1,7 @@
 <h1># Hi, I'm Juan Cruz Funes👋🚀</h1>
 
 
-### About Me
+### 💁🏽‍♀️ About Me
 • I am 29 years old and I am from Tres Arroyos, Buenos Aires, Argentina. </br>
 • I am currently studying the career of Full Stack Developer. 📚🤯
 
