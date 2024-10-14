@@ -1,4 +1,4 @@
-<h1>Hello! I'm Juan Cruz <img src="https://giphy.com/embed/oqWTRKzfFkgsE" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-gif-vhoto-oqWTRKzfFkgsE">via GIPHY</a></p>>👨🏽‍💻</h1>
+<h1># Hi, I'm Juan Cruz Funes👋🚀</h1>
 
 
 <h2>Desarrollador Full Stack </h2>
