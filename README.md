@@ -15,4 +15,4 @@
 
 ## 🔗 Links
 <a href="juan.funees@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Juan.funees@gmail.com-blue?style=flat-square&logo=gmail"></a>  
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@juanfunees)
